@@ -1,0 +1,4 @@
+Distribution of 'Survived' column:
+Survived
+0    0.583086
+1    0.416914
